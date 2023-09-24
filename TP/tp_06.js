@@ -1,7 +1,7 @@
 
-// Giving let age display 'Major' if age is greater or equal to 18 otherwise display 'Young'
+// 01. Giving let age display 'Major' if age is greater or equal to 18 otherwise display 'Young'
 
-// Fix this program to execute the program inside If Statement block
+// 02. Fix this program to execute the program inside If Statement block
 
 let age = 15;
 
@@ -9,7 +9,7 @@ if(age >= 18 ){
     console.log('You can Join U.S Navy')
 }
 
-// What is the result of this code ?: _________________
+// 03. What is the result of this code ?: _________________
 
 let color = 'red'
 
@@ -27,7 +27,7 @@ if(color == 'white'){
 
 }
 
-// Is the user logged in (Yes/No) ?: _________
+// 04. Is the user logged in (Yes/No) ?: _________
 
 let username = 'admin';
 
