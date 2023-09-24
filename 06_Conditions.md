@@ -78,7 +78,7 @@ if (time < 10) {
 }
 ```
 
-## Exercice file download link: [](./TP/tp_06.js)
+## Exercice file download link: [Click Here](./TP/tp_06.js)
 
 
 
